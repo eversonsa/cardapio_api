@@ -1,4 +1,5 @@
-[
+{
+    "cardapio":[
     {
        "id":1,
        "pizza":"calabresa",
@@ -54,3 +55,4 @@
        "preco":29.00
     }
  ]
+}
