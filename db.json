@@ -1,0 +1,56 @@
+[
+    {
+       "id":1,
+       "pizza":"calabresa",
+       "tamanho":"G",
+       "preco":40.00
+    },
+    {
+       "id":2,
+       "pizza":"calabresa",
+       "tamanho":"P",
+       "preco":17.00
+    },
+    {
+       "id":3,
+       "pizza":"calabresa",
+       "tamanho":"M",
+       "preco":29.00
+    },
+    {
+       "id":4,
+       "pizza":"Portuguesa",
+       "tamanho":"G",
+       "preco":40.00
+    },
+    {
+       "id":5,
+       "pizza":"Portuguesa",
+       "tamanho":"P",
+       "preco":17.00
+    },
+    {
+       "id":6,
+       "pizza":"Portuguesa",
+       "tamanho":"M",
+       "preco":29.00
+    },
+    {
+       "id":7,
+       "pizza":"4 QUEIJOS",
+       "tamanho":"G",
+       "preco":40.00
+    },
+    {
+       "id":8,
+       "pizza":"4 QUEIJOS",
+       "tamanho":"P",
+       "preco":17.00
+    },
+    {
+       "id":9,
+       "pizza":"4 QUEIJOS",
+       "tamanho":"M",
+       "preco":29.00
+    }
+ ]
